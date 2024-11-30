@@ -1,0 +1,20 @@
+{
+  "name": "crown",
+  "version": "1.0.0",
+  "description": "CROWN interface",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^12.331.1-beta",
+    "rollup-plugin-copy": "^3.5.0",
+    "rollup-plugin-scss": "^4.0.0",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.1"
+  },
+  "dependencies": {
+    "@league-of-foundry-developers/foundry-vtt-dnd5e-types": "^1.2.4-2"
+  }
+}

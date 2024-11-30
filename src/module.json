@@ -1,0 +1,18 @@
+{
+    "id": "crown",
+    "title": "CROWN",
+    "description": "CROWN Interface",
+    "authors": [
+        {
+            "name": "curiousCephalopod",
+            "email": "me@curiouscephalopod.com"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "esmodules": ["scripts/module.js"],
+    "styles": ["style.css"]
+}
