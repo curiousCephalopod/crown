@@ -65,5 +65,6 @@ export default defineConfig({
             ],
             hook: "writeBundle",
         }),
+        updateModuleManifestPlugin()
     ],
 });

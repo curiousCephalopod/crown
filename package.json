@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@league-of-foundry-developers/foundry-vtt-types": "^12.331.1-beta",
+    "node-sass": "^9.0.0",
     "rollup-plugin-copy": "^3.5.0",
     "rollup-plugin-scss": "^4.0.0",
     "sass-embedded": "^1.81.0",
